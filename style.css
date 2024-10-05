@@ -1,0 +1,8 @@
+.vertical-header {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  text-align: left; /* Align text to the left */
+  white-space: nowrap; /* Prevent text from wrapping */
+  height: 100px; /* Adjust height as needed */
+  vertical-align: bottom; /* Aligns the text at the bottom of the cell */
+}
